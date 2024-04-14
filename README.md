@@ -11,6 +11,6 @@ The first model (Model A), which served as a baseline, included 50 epochs and 1 
 
 ![output](https://github.com/ArdaKaymaz/Concrete_Work/assets/146623362/21e2a8cb-e117-4ee3-b049-d0ad3585b07d)
 
-The results of the study revealed several key findings. Firstly, scaling played a crucial role in improving accuracy and reducing variation in mean weights across all models. Secondly, increasing the depth of the model resulted in lower training durations and decreased variation in mean weights compared to models with fewer layers. Lastly, while increasing the number of epochs generally led to higher accuracy, it also prolonged training durations.
+The results of the study revealed several key findings. Firstly, scaling played a crucial role in improving accuracy and reducing variation in mean weights across all models. Secondly, increasing the depth of the model resulted in lower training durations and decreased variation in mean weights compared to models with fewer layers and more epochs. Lastly, while increasing the number of epochs generally led to higher accuracy, it also prolonged training durations.
 
 Overall, the study underscores the importance of scaling for model performance, the benefits of deeper architectures in reducing training durations and enhancing stability, and the trade-offs associated with increasing the number of epochs in terms of computational resources and time. These insights can inform future model development and optimization strategies for similar datasets and tasks.
